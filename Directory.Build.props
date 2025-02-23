@@ -12,6 +12,7 @@
     <MonoGameVersion>3.8.0.1641</MonoGameVersion>
     <AppMonoGameVersion>3.8.2.1105</AppMonoGameVersion>
     <StrideVersion>4.2.0.2067</StrideVersion>
+    <KNIVersion>4.0.9001</KNIVersion>
     <AppTargetFramework>net8.0</AppTargetFramework>
   </PropertyGroup>
 </Project>
