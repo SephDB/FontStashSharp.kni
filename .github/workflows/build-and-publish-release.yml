@@ -37,5 +37,5 @@ jobs:
       run: dotnet nuget push src\XNA\bin\Stride\Release\FontStashSharp.Stride.*.nupkg
       continue-on-error: true
     - name: Publish FontStashSharp.KNI to NuGet
-      run: dotnet nuget push src\XNA\bin\KNI\Release\FontStashSharp.Stride.*.nupkg
+      run: dotnet nuget push src\XNA\bin\KNI\Release\FontStashSharp.KNI.*.nupkg
       continue-on-error: true
